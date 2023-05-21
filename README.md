@@ -12,7 +12,7 @@
 
 ## 🌟 About me
 
-- 🇨🇦 Living in Canada
+- 🇨🇦
 - 👩🏻‍💻 Now starting my career as a Full-Stack Developer
 
 ## 📚 My stack
