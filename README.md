@@ -21,7 +21,7 @@
   <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-  <img alt="Java" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon.png" style="background-color: white;">
+  <img alt="Java" src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?logo=java&logoColor=black" style="background-color: white;">
 </p>
 
 ### Frameworks, Libraries, and Environments
