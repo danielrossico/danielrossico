@@ -1,8 +1,12 @@
 
 .header {
+ 
   background-image: url![](https://media.licdn.com/dms/image/D4E16AQFQbBFRPrcKYg/profile-displaybackgroundimage-shrink_200_800/0/1693427139810?e=2147483647&v=beta&t=cljl_1rzwyVwQ2hvgmRbm2JNkkaKwc5DYQgAj3H6xsw); 
+  
   width: 150%;
+  
   height: 150px;
+  
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
