@@ -7,6 +7,8 @@
   
   height: 150px;
 
+  }
+
 ### 
 <h1 align="center">Hi there! 👋🏻 
   I'm Daniel</h1>
