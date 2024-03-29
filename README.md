@@ -1,13 +1,24 @@
-
 .header {
- 
-  background-image: url![](https://media.licdn.com/dms/image/D4E16AQFQbBFRPrcKYg/profile-displaybackgroundimage-shrink_200_800/0/1693427139810?e=2147483647&v=beta&t=cljl_1rzwyVwQ2hvgmRbm2JNkkaKwc5DYQgAj3H6xsw); 
+  /* La imagen utilizada */
+  background-image: url('https://media.licdn.com/dms/image/D4E16AQFQbBFRPrcKYg/profile-displaybackgroundimage-shrink_200_800/0/1693427139810?e=2147483647&v=beta&t=cljl_1rzwyVwQ2hvgmRbm2JNkkaKwc5DYQgAj3H6xsw');
   
+  /* Ocupa todo el ancho */
   width: 100%;
   
+  /* Altura deseada para tu encabezado */
   height: 150px;
+  
+  /* Centra y escala la imagen correctamente */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  /* Asegúrate de que el encabezado se mantenga en la parte superior al hacer scroll */
+  position: fixed;
+  top: 0;
+  left: 0;
+}
 
-  }
 
 ### 
 <h1 align="center">Hi there! 👋🏻 
