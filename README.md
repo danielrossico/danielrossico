@@ -23,9 +23,10 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
   <img alt="Java" src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?logo=java&logoColor=black" style="background-color: white;">
   <img alt="Java" src="https://img.shields.io/badge/Java-%23F89820.svg?style=for-the-badge&logo=java&logoColor=white" style="background-color: white;">
-  [![Java](            )](https://www.java.com/)
-
-
+  <a href="#">
+    <img alt="Java" src="URL_TO_YOUR_EDITED_JAVA_LOGO.png" style="background-color: white;">
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23F89820.svg?logo=java&logoColor=white">
+  </a>
 
 </p>
 
