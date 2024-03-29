@@ -32,6 +32,8 @@
   <img alt="Express" src="https://img.shields.io/badge/Express%20-grey.svg?logo=express&logoColor=white">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-purple.svg?logo=bootstrap&logoColor=white">
   <img alt="Cypress" src="https://img.shields.io/badge/Cypress%20-grey.svg?logo=cypress&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?logo=java&logoColor=black" style="background-color: white;">
+
 </p>
 
 ### Systems, CMS, and Databases
