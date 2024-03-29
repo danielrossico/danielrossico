@@ -55,5 +55,5 @@
 
 ## 📫 How to reach me
 
-<a href="https://www.linkedin.com/in/danielrossico/"><img width="30" heigth="30" src="[https://cdn-icons-png.flaticon.com/512/174/174857.png](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png?20210220164014)" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/danielrossico/"><img width="30" heigth="30" src="wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" alt="LinkedIn"/></a>
 <a href="mailto:daniel@rossi.cam"><img width="30" heigth="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/1200px-Mail_%28iOS%29.svg.png" alt="eMail"/></a>
