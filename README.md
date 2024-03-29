@@ -14,8 +14,6 @@
 
 ## 📚 My stack
 
-### Languages
-
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python%20-cornflowerblue.svg?logo=python&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
@@ -25,8 +23,6 @@
   
 </p>
 
-### Frameworks, Libraries, and Environments
-
 <p>
   <img alt="ReactJS" src="https://img.shields.io/badge/React.js%20-%2320232a.svg?logo=react&logoColor=%2361DAFB">
   <img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white">
@@ -35,8 +31,6 @@
   <img alt="Cypress" src="https://img.shields.io/badge/Cypress%20-grey.svg?logo=cypress&logoColor=white">
 
 </p>
-
-### Systems and Databases
 
 <p>
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-green.svg?logo=mongodb&logoColor=white">
