@@ -6,11 +6,6 @@
 **dr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## 🌟 About me
-
-- 🇨🇦
-- 👩🏻‍💻 Now starting my career as a Full-Stack Developer
-
 ## 📚 My stack
 
 <p>
@@ -41,7 +36,7 @@
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
 
-## I’m currently learning
+## 📖 I’m currently learning
 
 <p>
   <img alt="C++" src="https://img.shields.io/badge/C++%20-blue.svg?logo=c&logoColor="white">
