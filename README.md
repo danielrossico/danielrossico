@@ -6,19 +6,6 @@
   width: 100%;
   
   height: 150px;
-  
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  
-  position: fixed;
-  top: 0;
-  left: 0;
-}
-
-.content {
-  padding-top: 150px;
-}
 
 ### 
 <h1 align="center">Hi there! 👋🏻 
