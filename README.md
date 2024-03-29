@@ -1,20 +1,5 @@
-<svg width="100%" height="150" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .header {
-          background-image: url('TU_IMAGEN.jpg');
-          height: 150px;
-          width: 100%;
-          background-size: cover;
-          background-position: center;
-          background-repeat: no-repeat;
-        }
-      </style>
-      <div class="header"></div>
-    </div>
-  </foreignObject>
-</svg>
+!Encabezado
+
 
 ### 
 <h1 align="center">Hi there! 👋🏻 
