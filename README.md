@@ -6,7 +6,7 @@
 **dr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## 📚 My stack
+## 📚 My stack:
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python%20-cornflowerblue.svg?logo=python&logoColor=white">
@@ -36,7 +36,7 @@
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
 
-## 📖 I’m currently learning
+## 📖 I’m currently learning:
 
 <p>
   <img alt="C++" src="https://img.shields.io/badge/C++%20-blue.svg?logo=c&logoColor="white">
@@ -45,7 +45,7 @@
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes%20-white.svg?logo=kubernetes&logoColor="white">
 </p>
 
-## 📫 How to reach me
+## 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/danielrossico/"><img width="30" heigth="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png" alt="LinkedIn"/></a>
 <a href="mailto:daniel@rossi.cam"><img width="30" heigth="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/1200px-Mail_%28iOS%29.svg.png" alt="eMail"/></a>
